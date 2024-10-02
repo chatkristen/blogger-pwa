@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://chat-kristen.blogspot.com',
+  origin: 'https://www.chatkristen.com',
 } satisfies Config;
