@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Chat Kristen',
+  shortName: 'Chat Kristen',
+  description: 'Chat Kristen: Platform yang menyajikan inspirasi, renungan harian, dan diskusi seputar kehidupan Kristen.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -18,16 +18,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Renungan',
+      shortName: 'Renungan',
+      description: 'Renungan',
+      url: '/search/label/Renungan?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Lagu Rohani',
+      shortName: 'Lagu Rohani',
+      description: 'Lagu Rohani',
+      url: '/search/label/Lagu%20Rohani?utm_source=homescreen',
     },
   ],
   pwa: {
@@ -35,7 +35,7 @@ export default {
     // OneSignal is not available if you are not using cloudflare workers
     oneSignalEnabled: false,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: 'd56abbf2-6dd3-4a00-93f2-c633bb99b3d0',
       allowLocalhostAsSecureOrigin: true,
     },
   },
