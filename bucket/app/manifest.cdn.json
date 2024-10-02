@@ -7,8 +7,8 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://chat-kristen.blogspot.com/?utm_source=homescreen",
-  "scope": "https://chat-kristen.blogspot.com/",
+  "start_url": "https://www.chatkristen.com/?utm_source=homescreen",
+  "scope": "https://www.chatkristen.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -119,7 +119,7 @@
       "name": "Renungan",
       "short_name": "Renungan",
       "description": "Renungan",
-      "url": "https://chat-kristen.blogspot.com/search/label/Renungan?utm_source=homescreen",
+      "url": "https://www.chatkristen.com/search/label/Renungan?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "Lagu Rohani",
       "short_name": "Lagu Rohani",
       "description": "Lagu Rohani",
-      "url": "https://chat-kristen.blogspot.com/search/label/Lagu%20Rohani?utm_source=homescreen",
+      "url": "https://www.chatkristen.com/search/label/Lagu%20Rohani?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
