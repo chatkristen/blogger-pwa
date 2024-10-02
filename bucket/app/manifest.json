@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "Chat Kristen",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Chat Kristen",
+  "description": "Chat Kristen: Platform yang menyajikan inspirasi, renungan harian, dan diskusi seputar kehidupan Kristen.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Renungan",
+      "short_name": "Renungan",
+      "description": "Renungan",
+      "url": "/search/label/Renungan?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Lagu Rohani",
+      "short_name": "Lagu Rohani",
+      "description": "Lagu Rohani",
+      "url": "/search/label/Lagu%20Rohani?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
