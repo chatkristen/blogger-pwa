@@ -33,12 +33,12 @@ export default {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
       appId: 'd56abbf2-6dd3-4a00-93f2-c633bb99b3d0',
       allowLocalhostAsSecureOrigin: true,
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.chatkristen.com',
+  // origin: 'https://www.chatkristen.com',
 } satisfies Config;
