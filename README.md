@@ -46,7 +46,7 @@ If you want to use Cloudflare Workers, you can follow the following steps otherw
 
 1. Deploy the workers by clicking on the following button, this will **fork this repository** and deploy workers in your Cloudflare account for you:
   
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kumardeo/blogger-pwa)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/chatkristen/blogger-pwa)
    * You need your Cloudflare Account ID and a Cloudflare API Token with `Edit Workers` permission.
    * You can find your Cloudflare Account ID by navigating to [Workers Dashboard](https://dash.cloudflare.com/?to=/:account/workers). It will be available in the right sidebar.
    * You can create an Cloudflare API Token with `Edit Workers` permission by navigating to [My Profile](https://dash.cloudflare.com/profile/api-tokens).  
