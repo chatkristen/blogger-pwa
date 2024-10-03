@@ -4,7 +4,7 @@ export default {
   version: '1.0',
   id: '/',
   name: 'Chat Kristen',
-  shortName: 'Chat Kristen',
+  shortName: '@chatkristen',
   description: 'Chat Kristen: Platform yang menyajikan inspirasi, renungan harian, dan diskusi seputar kehidupan Kristen.',
   direction: 'auto',
   language: 'en-US',
